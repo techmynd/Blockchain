@@ -1,0 +1,6 @@
+> yarn add openzeppelin-solidity
+
+create src/token.sol
+open token.sol in editor
+browser node_modules > openzeppelin-solidity > contracts
+copy contracts or stuff to use

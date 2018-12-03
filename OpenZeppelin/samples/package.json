@@ -1,0 +1,11 @@
+{
+  "name": "sample-contracts",
+  "version": "1.0.0",
+  "description": "Samples of tokens and contracts and more",
+  "main": "index.js",
+  "author": "MJK",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0"
+  }
+}
